@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java
+target/
+*.class
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.sln
+*.swp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Temporary Files
+*.log
+*.log.*
+logs/
+*.tmp
+*.temp
+
+# Environment-specific Files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Compiled/Generated Files
+dist/
+build/
+bin/
+
+# Dependency Management Files
+package-lock.json
+yarn.lock
+composer.lock
+
+# Configuration Files
+.config/
+.settings/
+.project
